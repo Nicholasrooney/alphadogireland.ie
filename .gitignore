@@ -1,0 +1,10 @@
+# Raw source assets — kept locally, NOT deployed to the website
+_source/
+Alpha Dog Ireland Homepage Video.mp4
+Screenshot*.png
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+desktop.ini
+*.tmp
